@@ -11,7 +11,7 @@ Note: The [AlexxIT go2rtc addon](https://github.com/AlexxIT/go2rtc) is (https://
 **How it works**
 
 1) Perform a curl check to determine your existing public IP.
-2) Read and extract the "candidate" IP which should be your existing public IP.
+2) Read and extract the "candidate" IP from the go2rtc configure file.
 3) Compare both IPs and update the go2rtc.yaml configuration file if the public IP has changed.
 4) Restart homeassistant container.
 
