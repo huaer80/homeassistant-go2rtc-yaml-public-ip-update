@@ -5,7 +5,7 @@ To update the candidates IP found in go2rtc.yaml for the go2rtc add-on in homeas
 
 1) Assuming you have homeassistant running as a docker container.
 2) Assuming you have install go2rtc addon into homeassistant.
-Note: The (go2rtc addon)[https://github.com/AlexxIT/go2rtc] is [https://github.com/AlexxIT/go2rtc]
+Note: The [AlexxIT go2rtc addon](https://github.com/AlexxIT/go2rtc) is (https://github.com/AlexxIT/go2rtc)
 3) Assuming the location of the go2rtc configuration file go2rtc.yaml is under the following path /volume1/docker/homeassistant/go2rtc.yaml
 
 **How it works**
